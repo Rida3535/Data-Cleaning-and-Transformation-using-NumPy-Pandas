@@ -2,11 +2,6 @@
 
 ## 📌 Title: Data Cleaning and Transformation using NumPy & Pandas
 
-**Student Name:** Rida Naseer  
-**Course:** Data Warehousing & Mining  
-**Instructor:** Dr. Khalid Jamal  
-**Date:** April 2025
-
 ---
 
 ## 🎯 Objective
