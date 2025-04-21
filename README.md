@@ -101,27 +101,10 @@ filtered_df.to_csv("processed_students_data.csv", index=False)
 
 ---
 
-### ✅ Step 6: Role of Pandas & NumPy
+### ✅ Role of Pandas & NumPy
 
 - **Pandas** helped in loading, manipulating, and saving the data.
 - **NumPy** was used for statistical calculations like mean, max, and min.
-
----
-
-### 📊 (Optional) Step 7: Data Visualization
-
-To visualize the distribution of average scores:
-
-```python
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-sns.histplot(df['Average'], kde=True)
-plt.title("Distribution of Average Scores")
-plt.xlabel("Average Score")
-plt.ylabel("Number of Students")
-plt.show()
-```
 
 ---
 
@@ -135,16 +118,6 @@ processed_students_data.csv
 This data is cleaned and transformed, ready to be loaded into a Data Warehouse.
 
 ---
-
-## 📁 Repository Structure
-
-```
-📦 Assignment1/
-├── StudentsPerformance.csv
-├── processed_students_data.csv
-├── analysis_script.py
-└── README.md
-```
 
 ---
 
